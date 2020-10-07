@@ -1,0 +1,13 @@
+cz.cuni.mff.java.klima.pacman
+cz.cuni.mff.java.klima.pacman.entities
+cz.cuni.mff.java.klima.pacman.entities.characters
+cz.cuni.mff.java.klima.pacman.entities.characters.enemies
+cz.cuni.mff.java.klima.pacman.entities.objects
+cz.cuni.mff.java.klima.pacman.enums
+cz.cuni.mff.java.klima.pacman.graphics
+cz.cuni.mff.java.klima.pacman.loader
+cz.cuni.mff.java.klima.pacman.map
+cz.cuni.mff.java.klima.pacman.map.tiles
+cz.cuni.mff.java.klima.pacman.states
+cz.cuni.mff.java.klima.pacman.userinput
+cz.cuni.mff.java.klima.pacman.userinterface
